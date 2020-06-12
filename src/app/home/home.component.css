@@ -1,0 +1,22 @@
+
+  .wrapper{
+    width: 100%;
+    overflow: hidden;
+    height: auto;
+
+  }
+  
+  .wrapper .wrapper__video{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    border-bottom: 10px solid gray;
+  }
+
+
+
+
+
+
+

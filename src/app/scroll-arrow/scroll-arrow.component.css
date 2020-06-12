@@ -1,0 +1,41 @@
+
+.containe {
+    bottom: 28px;
+    position: fixed;
+    z-index: 99;
+    right: 19px;
+
+  }
+  
+  .buttons{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin: 20px 5px 0;
+    background-color: #ffffff;
+    outline: none;
+    color: #ffffff !important;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    box-shadow: 2px 2px 8px #cbcaca;
+  }
+  .fa-arrow-up{
+  
+  color: #0000ff !important;
+  
+  cursor: pointer;
+  bottom: 47px;
+  
+  position: fixed;
+  
+  z-index: 99;
+  
+  right: 36px;
+  }
+  .show{
+    display: block;
+  }
+  .hide{
+    display: none;
+  }
